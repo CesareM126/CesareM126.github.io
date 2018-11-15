@@ -6,9 +6,8 @@
 <br>
 <img src="2.jpg"><br>
 <ul>
-<li>刘哲宇最帅
-<li>谢康俊第二帅
-</li>
+<li>刘哲宇最帅</li>
+<li>谢康俊第二帅</li>
 </ul>
 </body>
 </html>
